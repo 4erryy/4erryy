@@ -1,23 +1,29 @@
-🚀 About Me
+Hi, I'm Tikhon 👋
 
-I'm a student at the Financial University (RF) specializing in Information Security. I love building modular, automated systems and exploring the intersection of development and infrastructure.
+📚 Currently Learning
 
-🛡️ Focus: DevSecOps, SIEM, Automation, CI/CD.
+☁️ Cloud Infrastructure & Kubernetes: Automating deployments and managing containers at scale.
 
-🐍 Language: Python (FastAPI, Asyncio).
+🔍 Advanced Security Analysis: Deepening knowledge in reverse engineering and incident response.
 
-⚙️ Infrastructure: Linux, Docker, Bash.
+⚙️ MLOps Pipelines: Bridging the gap between data science and production environments.
 
 🛠 Tech Stack
 
+🚀 Featured Project: SteamLab
+
+A modular SIEM-like system for desktop event monitoring and automation.
+
+Goal: Building a distributed architecture to simulate live system logging and threat detection.
+
+Core Logic: Real-time file system monitoring, asynchronous data streaming, and secure Telegram notifications.
+
+Tech Stack: Python, FastAPI, SQLite, Docker.
+
 📈 GitHub Stats
-
-💡 Featured Project: SteamLab
-
-My flagship project—a modular SIEM-like system for desktop event monitoring and automation.
-
-Check it out here
 
 📫 Get in Touch
 
 💬 Telegram: @noonaameen
+
+📧 Email: tikhon.vishnya@gmail.com
