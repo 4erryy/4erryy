@@ -41,6 +41,7 @@
 
 <a name="about-me-eng"></a>
 ## 📝 About Me
+# Hello, I'm Tikhon 👋
 I am a passionate developer focused on backend solutions and DevOps practices. I aim to build scalable, maintainable, and well-tested applications.
 
 <a name="stack-eng"></a>
